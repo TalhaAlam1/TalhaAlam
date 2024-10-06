@@ -1,94 +1,122 @@
-<h2 align="left">Hi 👋! My name is Farrukh Javaid and I'm an AI/ML Specialist from Pakistan</h2>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your_username&" />
+</div>
 
 ###
 
-## 🚀 About Me
+<h1 align="center">Hi there 👋 I'm Talha Aftab!</h1>
 
-As an AI Expert with over **3 years** of experience, I specialize in **machine learning**, **deep learning**, **computer vision**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that drive business success and transform data into actionable insights. 
+###
 
-✅ **3+ years of industry experience**  
-✅ **50+ successful projects completed**  
-✅ Proven track record with scalable AI projects
+<h3 align="left">👩‍💻 About Me</h3>
 
----
+<p align="left">
+I'm Talha Aftab, an AI Engineer with over 3+ years of industry experience. I specialize in LLM Agents, Retrieval-Augmented Generation (RAG) applications, and natural language processing (NLP). Leveraging advanced machine learning algorithms and frameworks like LangChain, I develop AI solutions that transform data into actionable insights.
+</p>
 
-## 🔥 My Expertise Includes:
-- **🧠 Model Development**: Creating and optimizing machine learning and deep learning models tailored to specific business needs, ensuring accuracy and efficiency.
-- **👁️ Computer Vision**: Developing advanced computer vision solutions for tasks like image classification, object detection, and facial recognition.
-- **🗣️ NLP Solutions**: Implementing cutting-edge natural language processing techniques for sentiment analysis, text generation, and chatbot development.
-- **📊 Data Analysis**: Utilizing data preprocessing and visualization techniques to uncover valuable insights from complex datasets.
-- **🔮 Predictive Analytics**: Building predictive models to forecast trends and behaviors, helping businesses make data-driven decisions.
+- 🔭 I’m currently working as an AI Engineer.
+- 📚 Currently learning advanced AI systems and optimizing language models.
+- ⚡ In my free time, I enjoy solving complex AI problems and exploring new technologies.
 
----
+###
 
-## 🛠️ Projects Worked On:
-- **📷 Image Classification**
-- **📝 Natural Language Processing (NLP)**
-- **💡 Deep Learning Applications**
-- **👁️ Computer Vision Solutions**
-- **🎮 Reinforcement Learning**
-- **🔐 Adversarial Defense**
-- **💬 Sentiment Analysis**
-- **📦 Object Detection**
-- **🎤 Speech Recognition**
-- **🌐 Machine Translation**
-- **🎯 Recommender Systems**
-- **🛡️ Automated Cybersecurity Solutions**
-- **📈 Predictive Analytics**
-- **✍️ Text Generation**
-- **😎 Face Recognition**
-- **💬 Chatbot Development**
-- **⛏️ Data Mining**
-- **🔧 Feature Engineering**
-- **⏳ Time Series Forecasting**
-- **⚠️ Anomaly Detection**
-- **🕵️ Fraud Detection**
-- **📊 Data Visualization Dashboards**
-- **🎛️ Hyperparameter Tuning and Model Optimization**
-- **🎨 Generative Adversarial Networks (GANs)**
-
----
+<h3 align="left">🛠️ Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" height="40" alt="SpaCy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<h3 align="left">🔍 Expertise & Skills</h3>
+
+<p align="left">
+✔️ <strong>LLM Agents</strong>: Designing advanced agents for natural language understanding and generation.<br>
+✔️ <strong>RAG Applications</strong>: Developing frameworks for enhanced information retrieval and context-based responses.<br>
+✔️ <strong>LangChain</strong>: Creating robust AI applications integrating language models with external data sources.<br>
+✔️ <strong>NLP Solutions</strong>: Specializing in models for sentiment analysis, language translation, and conversational AI.<br>
+✔️ <strong>Prompt Engineering</strong>: Crafting effective prompts to optimize model performance.
+</p>
+
+<h4>🔹 Key Technologies:</h4>
+
+- **AI Tools**: TensorFlow, PyTorch, Hugging Face Transformers
+- **NLP Libraries**: NLTK, SpaCy, Gensim
+- **Machine Learning Techniques**: Supervised and unsupervised learning, deep learning
+- **Data Analytics**: Pandas, NumPy, Matplotlib
+
+###
+
+<h3 align="left">🚀 AI Services Offered</h3>
+
+<ul>
+  <li>Custom AI Solutions</li>
+  <li>Model Development</li>
+  <li>NLP Consulting</li>
+  <li>Prompt Optimization</li>
+  <li>Data Analysis & Visualization</li>
+  <li>AI-Driven Chatbots</li>
+  <li>Recommendation Systems</li>
+  <li>Automated Data Processing</li>
+  <li>Predictive Analytics</li>
+  <li>Anomaly Detection</li>
+</ul>
+
+###
+
+<h3 align="left">📊 My GitHub Stats:</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=your_username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-### 
+###
 
-<br clear="both">
+<h3 align="left">Why Work With Me?</h3>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- **Expertise**: Extensive experience in LLMs, RAG applications, and NLP.
+- **Customization**: Tailored solutions for your unique business needs.
+- **Collaboration**: Open communication for exceptional results.
+
+<div align="center">
+🌟 AI Engineer | LLM Agents | RAG | LangChain | NLP | Prompt Engineering<br>
+✅ 3+ years of industry experience<br>
+✅ 50+ successful projects completed<br>
+✅ Proven track record with scalable projects
+</div>
+
+###
+
+<h3 align="left">🔗 Connect with Me</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://youtube.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
+</div>
